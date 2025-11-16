@@ -1,0 +1,51 @@
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The dog was really lazy.
+The fox was very quick and brown.
+A quick movement of the enemy will jeopardize six gunboats.
+Pack my box with five dozen liquor jugs.
+How vexingly quick daft zebras jump!
+The five boxing wizards jump quickly.
+Sphinx of black quartz, judge my vow.
+Two driven jocks help fax my big quiz.
+The quick onyx goblin jumps over the lazy dwarf.
+
+Hello world! This is a test of the BPE tokenizer.
+Hello everyone, welcome to the mini-nanochat project.
+We are learning how transformers work from scratch.
+This tokenizer uses byte pair encoding, or BPE for short.
+BPE was originally designed for data compression in 1994.
+It was later applied to neural machine translation in 2015.
+GPT-2 introduced byte-level BPE in 2019.
+Now we're implementing it ourselves to understand how it works.
+
+Python is a great programming language.
+def hello_world():
+    print("Hello, World!")
+    return True
+
+The function above prints hello world.
+Functions in Python are defined with the def keyword.
+They can return values using the return statement.
+
+Machine learning models need lots of data.
+Transformers use attention mechanisms.
+Attention allows the model to focus on relevant parts.
+The attention mechanism was introduced in 2017.
+It revolutionized natural language processing.
+
+GPT stands for Generative Pre-trained Transformer.
+GPT-2 was released by OpenAI in 2019.
+It showed that language models could be very capable.
+GPT-3 scaled this up to 175 billion parameters.
+
+Tokenization is the first step in processing text.
+Good tokenization leads to better model performance.
+Subword tokenization handles rare words gracefully.
+BPE is one form of subword tokenization.
+WordPiece and SentencePiece are alternatives.
+
+The quick brown fox jumps over the lazy dog.
+The lazy dog slept under the tree.
+The brown fox ran through the forest.
+Quick movements catch the eye.
